@@ -8,5 +8,5 @@ div.content {
 }
 
 div.inner {
-
+  transform-origin: 0 0;
 }
